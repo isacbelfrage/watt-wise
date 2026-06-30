@@ -1,0 +1,46 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Sida-1" id="0vS4J7ahjN8YSLDRUxhS">
+    <mxGraphModel dx="1006" dy="693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3C45vDo0JwYW4-889cnY-6" edge="1" parent="1" source="3C45vDo0JwYW4-889cnY-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="3C45vDo0JwYW4-889cnY-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3C45vDo0JwYW4-889cnY-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="ESP32 edge device" vertex="1">
+          <mxGeometry height="60" width="120" x="354" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="3C45vDo0JwYW4-889cnY-9" edge="1" parent="1" source="3C45vDo0JwYW4-889cnY-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="3C45vDo0JwYW4-889cnY-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3C45vDo0JwYW4-889cnY-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Frontend dashboard" vertex="1">
+          <mxGeometry height="60" width="120" x="630" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="3C45vDo0JwYW4-889cnY-7" edge="1" parent="1" source="3C45vDo0JwYW4-889cnY-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="3C45vDo0JwYW4-889cnY-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3C45vDo0JwYW4-889cnY-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Database" vertex="1">
+          <mxGeometry height="60" width="120" x="90" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="3C45vDo0JwYW4-889cnY-8" edge="1" parent="1" source="3C45vDo0JwYW4-889cnY-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="3C45vDo0JwYW4-889cnY-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3C45vDo0JwYW4-889cnY-10" edge="1" parent="1" source="3C45vDo0JwYW4-889cnY-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="3C45vDo0JwYW4-889cnY-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3C45vDo0JwYW4-889cnY-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Backend API" vertex="1">
+          <mxGeometry height="60" width="120" x="354" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="3C45vDo0JwYW4-889cnY-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="sensor readings" vertex="1">
+          <mxGeometry height="30" width="60" x="414" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="3C45vDo0JwYW4-889cnY-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="read/send measurements" vertex="1">
+          <mxGeometry height="30" width="60" x="250" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="3C45vDo0JwYW4-889cnY-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="request / return dashboard data" vertex="1">
+          <mxGeometry height="30" width="100" x="500" y="240" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
