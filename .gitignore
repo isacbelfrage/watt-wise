@@ -1,0 +1,31 @@
+# Enviroment variables / secrets
+.env
+.env.local
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv
+
+# Node / frontend / backend
+node_modules/
+dist/
+build/
+
+# Java / Maven / Gradle, if used
+target/
+.gradle/
+build/
+*.class
+
+#IDE/editor
+.vscode/
+.idea/
+
+#OS files
+.DS_Store
+Thumbs.db
+
+#Logs
+*.log
