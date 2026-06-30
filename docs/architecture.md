@@ -1,5 +1,6 @@
 # Architecture
 ![System architecture](diagrams/system-architecture.png)
+
 This diagram shows the planned high-level data flow between the ESP32, backend, database and frontend
 
 ## Purpose
